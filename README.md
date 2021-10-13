@@ -3,7 +3,7 @@ Detailed explanation of hangman using python
 
 <h1>UNDER WORK</h1>
 
-# Topics covered
+## Topics covered
 * (About-Hangman)[#About-Hangman]
 
 ## About-Hangman
