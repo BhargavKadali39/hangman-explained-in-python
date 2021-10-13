@@ -15,5 +15,5 @@ Detailed explanation of hangman using python
 * [](#)
 
 ## about-hangman
-Hangman is a popular word prediction game in which the player tries to piece together a missing word one letter at a time.<br>The game ends after a specific amount of incorrect assumptions are made, and the player loses.<BR>Meanwhile when the player correctly identifies all of the letters of the lost word, the game is likewise over. 
+Hangman is a popular word prediction game in which the player tries to piece together a missing word <br>one letter at a time.<br>The game ends after a specific amount of incorrect assumptions are made, and the player loses.<BR>Meanwhile when the player correctly identifies all of the letters of the lost word, the game is likewise over. 
 
