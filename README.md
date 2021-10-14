@@ -1,6 +1,4 @@
 
-'''commands to install the module are below'''
-
 # hangman-explained-in-python
 Detailed explanation of hangman using python 
 
@@ -20,10 +18,12 @@ Detailed explanation of hangman using python
 ## about-hangman
 Hangman is a popular word prediction game in which the player tries to piece together a missing word <br>one letter at a time.<br>The game ends after a specific amount of incorrect assumptions are made, and the player loses.<BR>Meanwhile when the player correctly identifies all of the letters of the lost word, the game is likewise over. 
 
-## creating-xlsx
+## creating-xlsx-file
   Here I used ___xlsxwriter___ module to create a xlsx file, which takes input from the user to create a file.
-  xlrd module is used to read the words from the file so user have multiple options for inputs.
-  
+  ___xlrd___ module is used to read the words from the file so user have multiple options for inputs.
+  commands to install the module are below
+   > pip install xlsxwriter
+   > pip install xlrd 
 
   
   
