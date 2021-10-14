@@ -32,4 +32,6 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   + list(): The list function is used to convert other datatype to list which was clearly stated by me in one of my [REPO](https://github.com/BhargavKadali39/Python_Data_Structure_Cheat_Sheet)
   + map(): We can pass multiple iterable arguments to the map () function. In that case, the specified function must have that many arguments. The function will be applied to these iterable elements in parallel. With multiple iterable arguments, the map iterator stops when the shortest iterable is exhausted.
   + strip(): The strip function removes whitespace's that are present at the beginning and at the ending of the string.
- 
+  + split(): This divides a given sentence into words the default parameter for it is whitespace but anything can be given otherthan that.
+
+
