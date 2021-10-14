@@ -1,5 +1,5 @@
 
-"commands to install the module are below"
+'''commands to install the module are below'''
 
 # hangman-explained-in-python
 Detailed explanation of hangman using python 
