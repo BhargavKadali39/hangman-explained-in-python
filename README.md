@@ -8,7 +8,7 @@ Detailed explanation of hangman using python
 * [About-Hangman](#about-hangman) <!-- done -->
 * [creating-xlsx-file](#creating-xlsx-file) <!-- done -->
 * [adding-words-of-choice](#adding-words-of-choice) <!-- done -->
-* [choosing-random-word](#choosing-random-word) 
+* [choosing-random-word](#choosing-random-word)   <!-- done -->
 * [trial-and-errors](#trial-and-errors)
 * [unveiling-word](#unveiling-word)  <!-- done -->
 * [result-prediction](#result-prediction)
@@ -47,3 +47,15 @@ Hangman is a popular word prediction game in which the player tries to piece tog
             print("_", end="")
   The above loop will be insides another while loop, so in consideration for it the for loop decides to show the true characters you've entered.
   if block shows the char if you've entered it previously or the else block comes into action and provides empty blank space for it.
+
+  ## choosing-random-word
+  Here for chooisng random word we used python random module which is a inbuilt so installation is required.
+  >import random  
+  a = ['Gas', 'Food', 'Gym', 'Health']  
+  word = random.choice(a)  
+  print(word)  
+  
+  choice command in random modules chooses any one of the given data and return it to the respective variable. 
+  
+  ## trial-and-errors
+  These are nothing but bunch of if and else conditions shown below.
