@@ -5,12 +5,12 @@ Detailed explanation of hangman using python
 <h1>UNDER WORK</h1>
 
 ## Table of contents
-* [About-Hangman](#about-hangman)
-* [creating-xlsx-file](#creating-xlsx-file)
-* [adding-words-of-choice](#adding-words-of-choice)
-* [choosing-random-word](#choosing-random-word)
+* [About-Hangman](#about-hangman) <!-- done -->
+* [creating-xlsx-file](#creating-xlsx-file) <!-- done -->
+* [adding-words-of-choice](#adding-words-of-choice) <!-- done -->
+* [choosing-random-word](#choosing-random-word) 
 * [trial-and-errors](#trial-and-errors)
-* [unveiling-word](#unveiling-word)
+* [unveiling-word](#unveiling-word)  <!-- done -->
 * [result-prediction](#result-prediction)
 * [try-again](#try-again)
 * [summary](#summary)
