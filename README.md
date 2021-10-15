@@ -34,7 +34,7 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   + map(): We can pass multiple iterable arguments to the map () function. In that case, the specified function must have that many arguments. The function will be applied to these iterable elements in parallel. With multiple iterable arguments, the map iterator stops when the shortest iterable is exhausted.
   + strip(): The strip function removes whitespace's that are present at the beginning and at the ending of the string.
   + split(): This divides a given sentence into words the default parameter for it is whitespace but anything can be given otherthan that.
-  + [:n] The slice operator reduces the amount of given value into certain amount. ":" colon is also known as slice operator in python.
+  + [:n] The slice operator reduces the amount of given value into certain index value. ":" colon is also known as slice operator in python.
   Here the n is no.of inserting elements and the slice operator is given n as end value as it's after the operator.
   the slice operater make sure to remove exceeding amount of words than given.
 
