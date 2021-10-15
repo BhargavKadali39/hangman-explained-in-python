@@ -38,3 +38,12 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   Here the n is no.of inserting elements and the slice operator is given n as end value as it's after the operator.
   the slice operater make sure to remove exceeding amount of words than given.
 
+## unveiling-word
+  
+    for char in word:
+        if char in your_guess:
+            print(char, end="")
+        else:
+            print("_", end="")
+  The above loop will be insides another while loop, so in consideration for it the for loop decides to show the true characters you've entered.
+  if block shows the char if you've entered it previously or the else block comes into action and provides empty blank space for it.
