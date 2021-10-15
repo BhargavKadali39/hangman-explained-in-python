@@ -51,16 +51,6 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   Here the n is no.of inserting elements and the slice operator is given n as end value as it's after the operator.
   the slice operater make sure to remove exceeding amount of words than given with the help of indexing.
 
-## unveiling-word
-  
-    for char in word:
-        if char in your_guess:
-            print(char, end="")
-        else:
-            print("_", end="")
-  The above loop will be insides another while loop, so in consideration for it the for loop decides to show the true characters you've entered.
-  if block shows the char if you've entered it previously or the else block comes into action and provides empty blank space for it.
-
   ## choosing-random-word
   Here for chooisng random word we used python random module which is a inbuilt so installation is required.
   
@@ -86,3 +76,13 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   Firstly it takes input from the user and adds it the total guesses.  
   if the current guess is not present in the random word then one point is reduced and warning statement's are shown.
   The other way it ignores as my crush did and continues to loop unitll you have 0 turns left or you've won the game.
+
+  ## unveiling-word
+  
+    for char in word:
+        if char in your_guess:
+            print(char, end="")
+        else:
+            print("_", end="")
+  The above loop will be insides another while loop, so in consideration for it the for loop decides to show the true characters you've entered.
+  if block shows the char if you've entered it previously or the else block comes into action and provides empty blank space for it.
