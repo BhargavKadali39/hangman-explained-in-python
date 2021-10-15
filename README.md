@@ -49,7 +49,7 @@ Hangman is a popular word prediction game in which the player tries to piece tog
   
   The slice operator reduces the amount of given value into certain index value. ":" colon is also known as slice operator in python.
   Here the n is no.of inserting elements and the slice operator is given n as end value as it's after the operator.
-  the slice operater make sure to remove exceeding amount of words than given.
+  the slice operater make sure to remove exceeding amount of words than given with the help of indexing.
 
 ## unveiling-word
   
@@ -82,3 +82,7 @@ Hangman is a popular word prediction game in which the player tries to piece tog
           print("\nYou have", + turns, 'more guesses')
           if turns == 0:
               print("\nYou Lose")
+  
+  Firstly it takes input from the user and adds it the total guesses.  
+  if the current guess is not present in the random word then one point is reduced and warning statement's are shown.
+  The other way it ignores as my crush did and continues to loop unitll you have 0 turns left or you've won the game.
