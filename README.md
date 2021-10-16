@@ -8,11 +8,11 @@ Detailed explanation of hangman using python
 * [About-Hangman](#about-hangman) <!-- done -->
 * [creating-xlsx-file](#creating-xlsx-file) <!-- done -->
 * [input-for-adding-words](#input-for-adding-words) <!-- done -->
+* [to-and-fro-in-xlsx](#to-and-fro-in-xlsx)
 * [choosing-random-word](#choosing-random-word)   <!-- done -->
 * [trial-and-errors](#trial-and-errors)
 * [unveiling-word](#unveiling-word)  <!-- done -->
 * [result-prediction](#result-prediction)
-* [try-again](#try-again)
 * [summary](#summary)
 
 ## about-hangman
@@ -60,6 +60,14 @@ Hangman is a popular word prediction game in which the player tries to piece tog
     print(word)  
   
   choice command in random modules chooses any one of the given data and return it to the respective variable. 
+  
+  ## to-and-fro-in-xlsx
+  In the module 'xlsxwriter' we have a function called write() which takes parameter's as row, col ,item
+  Here item refers to the element that needs to be inserted into the sheet
+  Loop it up and you are all good to go
+  
+      worksheet = workbook.add_worksheet()
+      worksheet.write(row, col, item)
   
   ## trial-and-errors
   These are nothing but bunch of if and else conditions shown below.
