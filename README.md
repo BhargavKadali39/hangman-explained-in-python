@@ -8,7 +8,7 @@ Detailed explanation of hangman using python and snippets
 * [About-Hangman](#about-hangman) <!-- done -->
 * [creating-xlsx-file](#creating-xlsx-file) <!-- done -->
 * [input-for-adding-words](#input-for-adding-words) <!-- done -->
-* [to-and-fro-in-xlsx](#to-and-fro-in-xlsx)
+* [to-and-fro-in-xlsx](#to-and-fro-in-xlsx) <!-- done -->
 * [choosing-random-word](#choosing-random-word)   <!-- done -->
 * [trial-and-errors](#trial-and-errors)
 * [unveiling-word](#unveiling-word)  <!-- done -->
