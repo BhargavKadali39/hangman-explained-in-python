@@ -1,6 +1,6 @@
 
 # hangman-explained-in-python
-Detailed explanation of hangman using python 
+Detailed explanation of hangman using python and snippets
 
 <h1>UNDER WORK</h1>
 
