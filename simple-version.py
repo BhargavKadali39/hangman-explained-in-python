@@ -7,7 +7,7 @@ time.sleep(1)
 print ("Start guessing...\n")
 time.sleep(0.5)
 ## A List Of Secret Words
-words = ['python','programming','treasure','creative','medium','horror']
+words = ['funny', 'gossip', 'pixel', 'quiz', 'hangman', 'cycle', 'boggle', 'unknown', 'vortex', 'wave', 'youthful', 'zombie', 'strength', 'equip', 'scratch', 'joking', 'jigsaw']
 word = random.choice(words)
 guesses = ''
 turns = 5
