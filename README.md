@@ -7,7 +7,7 @@ Detailed explanation of hangman using python
 ## Table of contents
 * [About-Hangman](#about-hangman) <!-- done -->
 * [creating-xlsx-file](#creating-xlsx-file) <!-- done -->
-* [adding-words-of-choice](#adding-words-of-choice) <!-- done -->
+* [input-for-adding-words](#input-for-adding-words) <!-- done -->
 * [choosing-random-word](#choosing-random-word)   <!-- done -->
 * [trial-and-errors](#trial-and-errors)
 * [unveiling-word](#unveiling-word)  <!-- done -->
@@ -26,7 +26,7 @@ Hangman is a popular word prediction game in which the player tries to piece tog
     pip install xlsxwriter
     pip install xlrd 
   
-## adding-words-of-choice
+## input-for-adding-words
   Now comes the tricky part if you're a beginner and struggling with syntatical errors like giving wrong parameters etc.
   Below line is the only script used to take input from user.
   
