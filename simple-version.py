@@ -1,4 +1,3 @@
-# [print(str(i)*i) for i in range (6)]
 
 import time
 import random
