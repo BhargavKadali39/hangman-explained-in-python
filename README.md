@@ -94,3 +94,6 @@ Hangman is a popular word prediction game in which the player tries to piece tog
             print("_", end="")
   The above loop will be insides another while loop, so in consideration for it the for loop decides to show the true characters you've entered.
   if block shows the char if you've entered it previously or the else block comes into action and provides empty blank space for it.
+
+  ## summary
+  Well leaving the whole load of features aside if you came here only for the hangman you can visit this [doc](https://github.com/BhargavKadali39/hangman-explained-using-python/blob/main/simple-version.py) to get the simpler version without traction
